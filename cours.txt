@@ -1,0 +1,26 @@
+La notion de Classe.
+-propriétés
+-des possibilités (méthodes)
+La notion de composition ( un objet peut être composer d'autre objet).
+
+La notion de objet (dit aussi instance de classe).
+Un objet = un ensemble de propriétés + un ensemble de fonctions (qu'on dit méthode).
+Objet = instance de classe = un objet spécifique.
+Classe = le plan de l'architecte
+Objet = une maison réellement construite.
+
+Comment je passe d'une classe à un objet? 
+Comment je construis un objet à partir d'une classe ? 
+Une métodhe un peu spécifique : le constructeur. 
+Pourquoi un peu spécifique ? Parceque c'est php lui même qui va l'utiliser et donc 
+que le nom de cette méthode ne peut pas être choisi à l'arrache. 
+
+
+Comment on créé un objet ? 
+on va utiliser le mot clé : new 
+$monJouer = new Joueur(); 
+
+Qu'est ce qui se passe quand j'utilise le mot clé new ? 
+Et bien en fait le constructeur de class Joueur est appelé ! 
+Cad la fonction __construct() de la class Joueur est apelé. 
+
