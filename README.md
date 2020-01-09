@@ -7,8 +7,8 @@
 
 ## Purpose 
 
-Il s'agit d'un petit jeu coder dans un language fictif (pseudo-code) pour illustrer les grandes notions de la P.O.O. que
-sont l'héritage, les classes, les objets, les getter et setter, les notion private, public etc.... 
+Il s'agit d'un petit jeu codé dans un language fictif (pseudo-code) pour illustrer les grandes notions de la P.O.O. que
+sont l'héritage, les classes, les objets, les getter et setter, les notions private, public etc.... 
 
 ## Gameplay
 
