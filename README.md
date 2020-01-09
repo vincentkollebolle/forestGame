@@ -1,4 +1,5 @@
 # forestGame
+![A super game for cool kids ! ](https://raw.githubusercontent.com/vincentkollebolle/forestGame/master/ptitjeu.jpg)
 A super game for cool kids ! (retrogaming)
 
 
